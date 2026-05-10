@@ -102,7 +102,7 @@ iacb.exe
 ## Project Structure
 
 ```
-IA-chatbot-ooHg/
+IA-chatbot-ooHG/
   iacb.prg     - Main application source (2000+ lines)
   docs/        - Knowledge base files (optional)
   iacb.exe     - Compiled executable (not in repo)
