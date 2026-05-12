@@ -1,5 +1,7 @@
 # IA Chatbot in ooHG
 
+[![PayPal](https://img.shields.io/badge/PayPal-donate-blue)](https://www.paypal.com/donate/?hosted_button_id=P3TK84JYLNUU6)
+
 AI Chatbot desktop application written in Harbour/ooHG with async Ollama integration, RAG support, and proper UTF-8 handling for accented characters.
 
 ## Features
